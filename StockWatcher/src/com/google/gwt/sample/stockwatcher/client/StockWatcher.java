@@ -54,7 +54,7 @@ public class StockWatcher implements EntryPoint {
 	  System.out.println("Git is Awesome!");
   }
   
-  public void arbitraryMethod2() {
+  public void blehBlah() {
 	  System.out.println("A useless method.");
   }
   /**
